@@ -77,8 +77,6 @@ The goal is simple: let weak signals matter without instantly becoming truth, du
 
 ![Top screenshot](./docs/images/top.png)
 
-![Middle screenshot](./docs/images/middle.png)
-
 ## Getting Started
 
 Install dependencies:
