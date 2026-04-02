@@ -1,0 +1,47 @@
+Dependencies
+
+node_modules/
+
+Build output
+
+dist/
+build/
+coverage/
+
+Logs
+
+.log
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+Environment files
+
+.env
+.env.*
+!.env.example
+
+OS / editor noise
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+TypeScript / tooling caches
+
+*.tsbuildinfo
+.eslintcache
+.cache/
+
+Local screenshot / export clutter
+
+*.pdf
+
+Misc
+
+tmp/
+temp/
